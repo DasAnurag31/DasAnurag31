@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m Anurag
-- I'm a front-end web developer with some experience in making REST Api's using express and node js learning to contribute.
+- I'm a full stack web developer with some experience in making REST Api's using express and node js learning to contribute.
 ## 📝 Latest Blog Post
 Read my latest blog post on the difference between JSON parse functions in JavaScript [here](https://medium.com/@dasanurag3129/difference-between-json-parse-functions-in-javascript-34d5e5aefc86).
 
